@@ -6,7 +6,6 @@ Mostly designed to get me up and running during machine changes. Windows-specifi
 ## Set-Up
 1. `Install-Module PSReadLine -AllowPrerelease -Force`
 1. `PowerShellGet\Install-Module posh-git -Scope CurrentUser -Force`
-2. 
 1. [Install chocolatey](https://chocolatey.org/install)
 1. [Install Oh my Posh](https://ohmyposh.dev/docs/installation/windows)
 1. `choco install pyenv-win`
