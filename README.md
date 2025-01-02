@@ -28,3 +28,9 @@ Mostly designed to get me up and running during machine changes. Windows-specifi
 - https://ohmyposh.dev/
 - https://www.snakesonadomain.com/repl/rich/tools/dev-environment/2023/01/10/rich-repl.html
 - https://github.com/Textualize/rich
+
+## Preferred themes
+- amro
+- kushal
+- negligible
+- tokyonight_storm
