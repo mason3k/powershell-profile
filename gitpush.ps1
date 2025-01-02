@@ -16,7 +16,7 @@ else
 {
 	$remotebranch = "origin/" + $Matches[1]
 }
-git diff ...$remotebranch | dunk
+git diff $remotebranch... | dunk
 $Continue = Read-Host -Prompt 'Does this look right?'
 if ($Continue -ne "y" -and $Continue -ne "Y")
 {
